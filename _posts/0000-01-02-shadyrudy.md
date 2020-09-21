@@ -2,5 +2,7 @@
 layout: slide
 title: “Welcome to our second slide!”
 ---
-Your test
+* This
+* is 
+* Cool
 Use the left arrow to go back!
